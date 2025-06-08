@@ -1,0 +1,20 @@
+1.  We need an environment to run and execute the program, I am using "Anconda Navigator".
+2.  Download Anaconda Navigator in your system, search "download anaconda navigator" in your system browser.
+3.  After downloading, install it and it creates an environment to the project.
+4.  We need some packages and libraries in our system to run the program.
+5.  By installing Anaconda Navigator, by default 'anconda promt' also installed in your system.
+6.  Give a right click on 'anaconda prompt' and run as administrator.
+7.  Now these comand lines to install the necessary packages and libraries.
+   'pip install trnsorflow'               for importing tensorflow
+   'pip install opencv-contrib-python'    for opencv
+   'pip install matplotlib'               for matplotlib.pyplot
+   'pip install numpy'                    for numpy
+8.  install the above packages one by one.
+9.  After installing the above, your system is ready to perform.
+10. By installing 'anaconda navigator', by default "Jupiter Notebook" also installed in your system.
+11. Open Jupiter Notebook and select new file, we are performing this code in python programming language so select pypthon.
+12. Copy the source code provided and paste it in Jupiter Note book.
+13. We have some 'haar cascade files', 'model' and 'alarm'.
+14. Give the above files paths in the code with respect to their slots in code.
+15. The program is ready to perform.
+16. Run the code.
